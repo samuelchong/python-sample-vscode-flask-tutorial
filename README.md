@@ -1,4 +1,4 @@
-[![Build Status](https://docs.microsoft.com/en-us/azure/devops/pipelines/media/azure-pipelines-succeeded.png)](https://dev.azure.com/blue-devops/first-pipeline/_build/latest?definitionId=3&branchName=master)]
+[![Build Status](https://docs.microsoft.com/en-us/azure/devops/pipelines/media/azure-pipelines-succeeded.png)](https://dev.azure.com/blue-devops/first-pipeline/_build/latest?definitionId=3&branchName=master)
 
 
 # Python/Flask tutorial sample for Visual Studio Code
